@@ -1,14 +1,16 @@
 <div align="center">
 
-# 𝙅𝘼𝙀𝙇 𝙃𝙄𝙂𝙐𝙀𝙍𝘼
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=220&section=header&text=JAEL%20HIGUERA&fontSize=55&fontColor=FFFFFF&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Student+%7C+Developer+%7C+Dreamer;Always+Learning+Something+New;Focused+on+Reaching+My+Goals" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=Jael+Higuera;Student+%7C+Developer+%7C+Dreamer;Always+Learning+Something+New;Focused+on+Reaching+My+Goals" />
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=JaelHiguera&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
 
 </div>
 
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=180&section=header&text=JAEL%20HIGUERA&fontSize=45&fontColor=FFFFFF&fontAlignY=35&animation=fadeIn"/>
+---
 
 ## 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞
 
@@ -18,23 +20,67 @@ I speak **Spanish and English**, and I have a **Python Essentials certification*
 
 I am passionate about learning new things, overcoming challenges and working hard to achieve my goals. I also enjoy spending time with my friends, sharing experiences and creating memorable moments.
 
+---
+
 ## 𝐒𝐤𝐢𝐥𝐥𝐬
 
-<p align="center">
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js" />
+<img src="https://skillicons.dev/icons?i=python,html,css,js&perline=4" />
 
-</p>
+</div>
 
-**Languages**
+### Languages
 
 * Spanish — Native
 * English — Good level
 
-**Certification**
+### Certification
 
 * Python Essentials
 
+---
+
 ## 𝐖𝐡𝐚𝐭 𝐈 𝐋𝐢𝐤𝐞
 
-I enjoy learnin
+I enjoy learning about technology and programming, improving my skills and discovering new things.
+
+I believe that every challenge is an opportunity to become a better version of myself.
+
+---
+
+## 𝐌𝐲 𝐆𝐨𝐚𝐥
+
+My goal is to continue learning, develop my abilities and achieve the goals I set for myself.
+
+I want to keep growing both personally and professionally.
+
+---
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=JaelHiguera&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaelHiguera&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 𝑻𝒉𝒐𝒖𝒈𝒉𝒕𝒔
+
+*"The future depends on what you do today."*
+
+— Mahatma Gandhi
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Learning.;Growing.;Achieving." />
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=150&section=footer&animation=fadeIn"/>
