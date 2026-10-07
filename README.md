@@ -1,16 +1,16 @@
 <div align="center">
 
-<a href="https://github.com/jaelhiguera477">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:0F172A,70:1E3A8A,100:2563EB&height=230&section=header&text=JAEL%20HIGUERA&fontSize=58&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"/>
-
-</a>
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=850&lines=Jael+Higuera;Student+%7C+Developer+%7C+Dreamer;Always+Learning+Something+New;Focused+on+Reaching+My+Goals" />
+<img src="./fire-background.jpg" width="100%" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=18&duration=3000&pause=1000&color=94A3B8&center=true&vCenter=true&width=700&lines=Learning+%7C+Growing+%7C+Achieving" />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=42&duration=1800&pause=500&color=FFFFFF&center=true&vCenter=true&width=900&lines=JAEL+HIGUERA" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&duration=2500&pause=700&color=FF6A00&center=true&vCenter=true&width=800&lines=Student+%7C+Developer+%7C+Dreamer;Always+Learning+Something+New;Focused+on+Reaching+My+Goals" />
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=18&duration=3000&pause=800&color=FF4500&center=true&vCenter=true&width=700&lines=Learning+%7C+Growing+%7C+Achieving" />
 
 </div>
 
@@ -30,7 +30,7 @@ I am passionate about learning new things, overcoming challenges and working har
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=600&lines=Programming+%7C+Technology+%7C+Learning" />
+<img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=20&duration=2200&pause=600&color=FF6A00&center=true&vCenter=true&width=650&lines=Programming+%7C+Technology+%7C+Learning" />
 
 </div>
 
@@ -71,6 +71,6 @@ I want to keep growing both personally and professionally.
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&duration=1800&pause=400&color=60A5FA&center=true&vCenter=true&width=650&lines=Learning.;Growing.;Achieving.;Never+Stop+Moving+Forward." />
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=23&duration=1600&pause=400&color=FF4500&center=true&vCenter=true&width=700&lines=Learning.;Growing.;Achieving.;Never+Stop+Moving+Forward." />
 
 </div>
