@@ -1,8 +1,12 @@
 <div align="center">
 
-# 𝙅𝘼𝙀𝙇 𝙃𝙄𝙂𝙐𝙀𝙍𝘼
+<a href="https://github.com/jaelhiguera477">
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=850&lines=Jael+Higuera;Student+%7C+Developer+%7C+Dreamer;Always+Learning+Something+New;Focused+on+Reaching+My+Goals" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,35:0F172A,70:1E3A8A,100:2563EB&height=230&section=header&text=JAEL%20HIGUERA&fontSize=58&fontColor=FFFFFF&fontAlignY=50&animation=fadeIn"/>
+
+</a>
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=2200&pause=500&color=58A6FF&center=true&vCenter=true&width=850&lines=Jael+Higuera;Student+%7C+Developer+%7C+Dreamer;Always+Learning+Something+New;Focused+on+Reaching+My+Goals" />
 
 <br>
 
