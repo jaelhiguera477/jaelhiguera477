@@ -1,18 +1,14 @@
-# 🖤 LAMBORGHINI — DARK EDITION
+# ⚡ DARK EDITION
 
 <p align="center">
   <img src="https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?auto=format&fit=crop&w=1600&q=90"
-       alt="Lamborghini negro"
+       alt="Auto deportivo negro"
        width="900"/>
 </p>
 
 <h1 align="center">
-  🐂 LAMBORGHINI
+  🏎️ JAEL HIGUERA
 </h1>
-
-<h2 align="center">
-  🖤 Jael Higuera
-</h2>
 
 <p align="center">
   <b>⚡ Power • Luxury • Speed • Performance ⚡</b>
@@ -32,19 +28,19 @@
 
 Me apasiona crear proyectos con un estilo moderno, elegante y diferente.
 
-Este README está inspirado en la estética de un **Lamborghini negro**:
-potencia, velocidad, lujo y personalidad. 🏎️💨
+Este espacio representa mi pasión por la tecnología, el diseño,
+la velocidad y los proyectos con personalidad. 🏎️💨
 
 ---
 
 ## 🏁 Características
 
-- 🖤 Diseño oscuro y elegante
-- ⚡ Alto rendimiento
+- ⚡ Diseño moderno y elegante
+- 🚀 Alto rendimiento
 - 🏎️ Inspiración automotriz
 - 💎 Estética premium
-- 🚀 Velocidad y potencia
 - 🔥 Código con personalidad
+- 💻 Desarrollo y creatividad
 
 ---
 
@@ -64,7 +60,7 @@ cd TU-REPOSITORIO
 
 ---
 
-## 🖤 Philosophy
+## ✨ Philosophy
 
 <p align="center">
 
@@ -80,7 +76,7 @@ cd TU-REPOSITORIO
 
 <p align="center">
 
-### 🐂 Jael Higuera
+### Jael Higuera
 
 **Creative Developer • Programmer • Dreamer**
 
@@ -95,6 +91,6 @@ cd TU-REPOSITORIO
 
 <p align="center">
 
-### 🖤 JAEL HIGUERA — BUILT DIFFERENT. 🖤
+### JAEL HIGUERA — BUILT DIFFERENT. 🔥
 
 </p>
