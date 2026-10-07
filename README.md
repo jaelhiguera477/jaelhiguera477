@@ -1,148 +1,100 @@
-# 👋 ¡Hola! Soy Jael Higuera
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Jael+Higuera+%F0%9F%91%8B;Desarrollador+en+formaci%C3%B3n+%F0%9F%92%BB;Apasionado+por+la+tecnolog%C3%ADa+%F0%9F%9A%80;Siempre+aprendiendo+algo+nuevo+%F0%9F%93%9A" alt="Typing SVG" />
+# 🖤 LAMBORGHINI — DARK EDITION
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jaelhiguera477&label=Visitas%20al%20perfil&color=36BCF7&style=flat" alt="Visitas" />
+  <img src="https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?auto=format&fit=crop&w=1600&q=90"
+       alt="Lamborghini negro"
+       width="900"/>
+</p>
+
+<h1 align="center">
+  🐂 LAMBORGHINI
+</h1>
+
+<h2 align="center">
+  🖤 Jael Higuera
+</h2>
+
+<p align="center">
+  <b>⚡ Power • Luxury • Speed • Performance ⚡</b>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/CREATED%20BY-JAEL%20HIGUERA-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/STYLE-DARK-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SPEED-EXTREME-red?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧑‍💻 Sobre mí
+## 👑 Sobre mí
 
-Soy **Jael Higuera**, una persona apasionada por la tecnología, la programación y el desarrollo de proyectos.
+### Hola, soy **Jael Higuera** 👋
 
-Actualmente estoy aprendiendo y mejorando mis habilidades para convertirme en un mejor desarrollador.
+Me apasiona crear proyectos con un estilo moderno, elegante y diferente.
 
-- 🔭 Actualmente estoy trabajando en **[TU PROYECTO]**
-- 🌱 Actualmente estoy aprendiendo **[TECNOLOGÍA]**
-- 💻 Me interesa el desarrollo **[WEB / SOFTWARE / IA / ETC.]**
-- 🚀 Me gusta crear proyectos y aprender haciendo
-- 🤝 Estoy abierto a colaborar en proyectos interesantes
-- 📚 Siempre estoy buscando aprender algo nuevo
-- ⚡ Dato curioso: **[ALGO SOBRE TI]**
+Este README está inspirado en la estética de un **Lamborghini negro**:
+potencia, velocidad, lujo y personalidad. 🏎️💨
 
 ---
 
-## 🛠️ Tecnologías
+## 🏁 Características
 
-### 💻 Lenguajes
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,python,java" />
-
-</p>
-
-### 🔧 Herramientas
-
-<p align="left">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,mysql" />
-
-</p>
-
-> 💡 Agrega o elimina las tecnologías que realmente utilizas.
+- 🖤 Diseño oscuro y elegante
+- ⚡ Alto rendimiento
+- 🏎️ Inspiración automotriz
+- 💎 Estética premium
+- 🚀 Velocidad y potencia
+- 🔥 Código con personalidad
 
 ---
 
-## 🚀 Proyectos
+## 🛠️ Tech Stack
 
-### 📌 Proyecto 1 — [Nombre del proyecto]
+HTML ████████████████████ 100% CSS ██████████████████░░ 90% JavaScript ████████████████░░░░ 80%
 
-**Descripción:**  
-[Escribe aquí una pequeña descripción de tu proyecto.]
-
-**Tecnologías:**  
-`HTML` `CSS` `JavaScript`
-
-🔗 [Ver proyecto](https://github.com/)
 
 ---
 
-### 📌 Proyecto 2 — [Nombre del proyecto]
+## 🚀 Proyecto
 
-**Descripción:**  
-[Escribe aquí una pequeña descripción de tu proyecto.]
+git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
 
-**Tecnologías:**  
-`Python` `SQL`
+cd TU-REPOSITORIO
 
-🔗 [Ver proyecto](https://github.com/)
 
 ---
 
-### 📌 Proyecto 3 — [Nombre del proyecto]
-
-**Descripción:**  
-[Escribe aquí una pequeña descripción de tu proyecto.]
-
-**Tecnologías:**  
-`JavaScript` `React`
-
-🔗 [Ver proyecto](https://github.com/)
-
----
-
-## 📊 Estadísticas de GitHub
+## 🖤 Philosophy
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=jaelhiguera477&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+### DREAM. BUILD. DRIVE.
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaelhiguera477&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+**"No necesitas seguir el camino. Puedes crear el tuyo."**
 
 </p>
 
 ---
 
-## 🔥 Racha de contribuciones
+## 👨‍💻 Developer
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=jaelhiguera477&theme=tokyonight&hide_border=true" />
+### 🐂 Jael Higuera
+
+**Creative Developer • Programmer • Dreamer**
 
 </p>
-
----
-
-## 🎯 Actualmente
-
-💻 Programando ███████████████░░░░░ 75% 📚 Aprendiendo █████████████████░░░ 85% 🚀 Creando proyectos ██████████████░░░░░░ 70% ☕ Tomando café ████████████████████ 100%
-
-
----
-
-## 📫 Conecta conmigo
-
-<p align="left">
-
-<a href="https://github.com/jaelhiguera477">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="mailto:[TU_EMAIL]">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<a href="[TU_LINKEDIN]">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</p>
-
----
-
-## 💭 Frase
-
-> *"El código no solo se escribe, se aprende, se mejora y se comparte."* 🚀
 
 ---
 
 <p align="center">
+  <img src="https://img.shields.io/badge/MADE%20WITH-❤️-black?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/BY-JAEL%20HIGUERA-red?style=for-the-badge" />
+</p>
 
-### ⭐ Gracias por visitar mi perfil ⭐
+<p align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
+### 🖤 JAEL HIGUERA — BUILT DIFFERENT. 🖤
 
 </p>
