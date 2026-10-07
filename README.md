@@ -1,96 +1,55 @@
-# ⚡ DARK EDITION
+# 👋 Hola, soy **Jael Higuera**
 
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1544829099-b9a0c07fad1a?auto=format&fit=crop&w=1600&q=90"
-       alt="Auto deportivo negro"
-       width="900"/>
-</p>
-
-<h1 align="center">
-  🏎️ JAEL HIGUERA
-</h1>
-
-<p align="center">
-  <b>⚡ Power • Luxury • Speed • Performance ⚡</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Jael+Higuera;Estudiante+de+Bachillerato;Apasionado+por+aprender;Siempre+buscando+nuevas+metas" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/CREATED%20BY-JAEL%20HIGUERA-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/STYLE-DARK-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/SPEED-EXTREME-red?style=for-the-badge" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
----
+## 👨‍💻 Sobre mí
 
-## 👑 Sobre mí
+🎓 Estudiante de **12.º grado de Bachillerato en Ciencias** en el **Colegio Guillermo Endara Galimany**.
 
-### Hola, soy **Jael Higuera** 👋
+🌎 Manejo los idiomas **español e inglés**.
 
-Me apasiona crear proyectos con un estilo moderno, elegante y diferente.
+🐍 Cuento con una **certificación en Python Essentials**.
 
-Este espacio representa mi pasión por la tecnología, el diseño,
-la velocidad y los proyectos con personalidad. 🏎️💨
+🚀 Me apasiona **aprender cosas nuevas, superar desafíos y alcanzar mis metas**.
 
----
+🤝 Disfruto **pasar tiempo con mis amigos**, compartir experiencias y crear buenos recuerdos.
 
-## 🏁 Características
+### 💡 Mis intereses
 
-- ⚡ Diseño moderno y elegante
-- 🚀 Alto rendimiento
-- 🏎️ Inspiración automotriz
-- 💎 Estética premium
-- 🔥 Código con personalidad
-- 💻 Desarrollo y creatividad
+* 📚 Aprender y mejorar constantemente
+* 💻 Programación y tecnología
+* 🎯 Alcanzar nuevas metas
+* 🌎 Mejorar mis habilidades en inglés
+* 🤝 Compartir tiempo con mis amigos
 
----
-
-## 🛠️ Tech Stack
-
-HTML ████████████████████ 100% CSS ██████████████████░░ 90% JavaScript ████████████████░░░░ 80%
-
-
----
-
-## 🚀 Proyecto
-
-git clone https://github.com/TU-USUARIO/TU-REPOSITORIO.git
-
-cd TU-REPOSITORIO
-
-
----
-
-## ✨ Philosophy
+## 🛠️ Habilidades
 
 <p align="center">
-
-### DREAM. BUILD. DRIVE.
-
-**"No necesitas seguir el camino. Puedes crear el tuyo."**
-
+  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
 </p>
 
----
+**Idiomas:**
 
-## 👨‍💻 Developer
+* 🇪🇸 Español — Nativo
+* 🇺🇸 Inglés — Buen nivel
 
-<p align="center">
+**Certificaciones:**
 
-### Jael Higuera
+* 🐍 Python Essentials
 
-**Creative Developer • Programmer • Dreamer**
+## 🎯 Mi objetivo
 
-</p>
+Seguir desarrollándome tanto personal como profesionalmente, adquirir nuevos conocimientos y aprovechar cada oportunidad para crecer.
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MADE%20WITH-❤️-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/BY-JAEL%20HIGUERA-red?style=for-the-badge" />
-</p>
+> *"El futuro depende de lo que hagas hoy."*
+> — Mahatma Gandhi
 
 <p align="center">
-
-### JAEL HIGUERA — BUILT DIFFERENT. 🔥
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
