@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=JaelHiguera&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=jaelhiguera477&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
 
 </div>
 
@@ -32,12 +32,12 @@ I am passionate about learning new things, overcoming challenges and working har
 
 ### Languages
 
-* Spanish — Native
-* English — Good level
+- Spanish — Native
+- English — Good level
 
 ### Certification
 
-* Python Essentials
+- Python Essentials
 
 ---
 
@@ -59,11 +59,11 @@ I want to keep growing both personally and professionally.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=JaelHiguera&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=jaelhiguera477&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JaelHiguera&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaelhiguera477&theme=tokyonight&hide_border=true" />
 
 </div>
 
