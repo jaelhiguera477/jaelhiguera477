@@ -1,55 +1,43 @@
-# 👋 Hola, soy **Jael Higuera**
+# Jael Higuera
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&size=35&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Jael+Higuera;Estudiante+de+Bachillerato;Apasionado+por+aprender;Siempre+buscando+nuevas+metas" alt="Typing SVG" />
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p>
+---
 
-## 👨‍💻 Sobre mí
+## Sobre mí
 
-🎓 Estudiante de **12.º grado de Bachillerato en Ciencias** en el **Colegio Guillermo Endara Galimany**.
+Soy estudiante de 12.º grado de Bachillerato en Ciencias en el Colegio Guillermo Endara Galimany.
 
-🌎 Manejo los idiomas **español e inglés**.
+Manejo los idiomas español e inglés y cuento con una certificación en Python Essentials.
 
-🐍 Cuento con una **certificación en Python Essentials**.
+Me apasiona aprender cosas nuevas, superar desafíos y trabajar para alcanzar mis metas. También disfruto pasar tiempo con mis amigos, compartir experiencias y crear buenos recuerdos.
 
-🚀 Me apasiona **aprender cosas nuevas, superar desafíos y alcanzar mis metas**.
+## Habilidades
 
-🤝 Disfruto **pasar tiempo con mis amigos**, compartir experiencias y crear buenos recuerdos.
+* Python
+* HTML
+* CSS
+* JavaScript
+* Español
+* Inglés
 
-### 💡 Mis intereses
+## Certificaciones
 
-* 📚 Aprender y mejorar constantemente
-* 💻 Programación y tecnología
-* 🎯 Alcanzar nuevas metas
-* 🌎 Mejorar mis habilidades en inglés
-* 🤝 Compartir tiempo con mis amigos
+* Python Essentials
 
-## 🛠️ Habilidades
+## Intereses
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,html,css,js" />
-</p>
+Me interesa seguir aprendiendo sobre programación, tecnología y desarrollo personal. Mi objetivo es continuar adquiriendo conocimientos y desarrollar habilidades que me permitan crecer tanto académica como profesionalmente.
 
-**Idiomas:**
+## Filosofía
 
-* 🇪🇸 Español — Nativo
-* 🇺🇸 Inglés — Buen nivel
+> "No importa qué tan lento vayas, siempre y cuando no te detengas."
 
-**Certificaciones:**
-
-* 🐍 Python Essentials
-
-## 🎯 Mi objetivo
-
-Seguir desarrollándome tanto personal como profesionalmente, adquirir nuevos conocimientos y aprovechar cada oportunidad para crecer.
-
-> *"El futuro depende de lo que hagas hoy."*
-> — Mahatma Gandhi
+---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  Siempre aprendiendo. Siempre creciendo. Siempre avanzando.
 </p>
+
