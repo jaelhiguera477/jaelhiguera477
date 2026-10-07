@@ -4,10 +4,6 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=2500&pause=700&color=58A6FF&center=true&vCenter=true&width=800&lines=Jael+Higuera;Student+%7C+Developer+%7C+Dreamer;Always+Learning+Something+New;Focused+on+Reaching+My+Goals" />
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=jaelhiguera477&label=PROFILE+VIEWS&color=2563EB&style=for-the-badge" />
-
 </div>
 
 ---
@@ -54,18 +50,6 @@ I believe that every challenge is an opportunity to become a better version of m
 My goal is to continue learning, develop my abilities and achieve the goals I set for myself.
 
 I want to keep growing both personally and professionally.
-
----
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=jaelhiguera477&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=jaelhiguera477&theme=tokyonight&hide_border=true" />
-
-</div>
 
 ---
 
